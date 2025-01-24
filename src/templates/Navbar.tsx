@@ -21,24 +21,7 @@ const Navbar = () => {
                     <div className=" pl-4 pr-5 border-r">
                     </div>
 
-                    <ul className="ml-5 md:flex space-x-6">
-                        <li>
-                            <a
-                                href="/"
-                                className="block hover:text-white hover:bg-green-900 p-2 rounded transition duration-200"
-                            >
-                                Inicio
-                            </a>
-                        </li>
-                        <li>
-                            <a
-                                href="/muestras"
-                                className="block hover:text-white hover:bg-green-900 p-2 rounded transition duration-200"
-                            >
-                                Encuesta
-                            </a>
-                        </li>
-                    </ul>
+                 
 
 
                     <Button
