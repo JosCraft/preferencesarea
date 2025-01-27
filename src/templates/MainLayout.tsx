@@ -11,7 +11,7 @@ const MainLayout = ({ children }: MainLayoutProps) => {
         <div className="flex flex-col min-h-screen">
             <Navbar />
 
-            <main className="flex-grow">
+            <main className="flex-grow bg-green-100">
                 {children}
             </main>
             <Footer />

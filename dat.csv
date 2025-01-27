@@ -1,0 +1,52 @@
+id_pregunta, texto, codigo
+1,Hombre, a
+1,Mujer, b
+4,Soltero/a,a
+4,Casado/a,b
+4,Divorciado/a,c
+4,Concubino/a,d
+4,Viudo/a,f
+5,Principiante,a
+5,Intermedio,b
+5,Avanzado,c
+5,No tengo Expreciencia,d
+6,Ninguno,a
+6,6 meses,b
+6,1 a 2 años,c
+6,2 a 10 años,d
+7,Ninguno,a
+7,1 a 2,b 
+7,2 a 5,c
+7,mas de 5,d
+8,Inteligencia artificial,a
+8,Seguridad informática,b
+8,Desarrollo de software,c
+8,Redes y Comuniaciones,d
+8,Ciencia de Datos,e
+9,Si,a
+9,No,b
+10,Si,a
+10,No,b
+11,Interés por la tecnología,a
+11,Oportunidades laborales,b
+11,Desarrollo de habilidades,c
+11,Resolución de problemas,d
+12,Finalizar mis estudios,a
+12,Especializarme en un área,b
+12,Conseguir empleo,c
+12,Emprender en informática,d
+13,Nunca,a
+13,Rara vez,b
+13,Aveces,c
+13,Frecuentemente,d
+13,Siempre,e
+14,Si,a
+14,No,b
+15,Muy insatisfecho,a
+15,Insatisfecho,b
+15,Neutral,c
+15,Satisfecho,d
+15,Muy satisfecho,e
+16,Falta de tiempo,a
+16,Falta de recursos educativos,b
+16,Dificultad para encontrar gu\'ias claras,c
